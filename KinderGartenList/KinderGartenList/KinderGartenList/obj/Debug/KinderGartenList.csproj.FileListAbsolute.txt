@@ -39,3 +39,4 @@ D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AdminMainForm.resources
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
+D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.changePasswordForm.resources

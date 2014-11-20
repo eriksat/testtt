@@ -61,6 +61,8 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.поменятьПарольToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -79,7 +81,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.helpToolStripMenuItem,
-            this.toolStripMenuItem1});
+            this.toolStripMenuItem1,
+            this.поменятьПарольToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1024, 24);
@@ -89,8 +92,8 @@
             // fileToolStripMenuItem
             // 
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.fileToolStripMenuItem.Text = "File";
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
+            this.fileToolStripMenuItem.Text = "Файл";
             // 
             // helpToolStripMenuItem
             // 
@@ -108,6 +111,7 @@
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 24);
             this.tabControl1.Name = "tabControl1";
@@ -282,8 +286,9 @@
             // 
             this.button6.Location = new System.Drawing.Point(409, 17);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(168, 26);
+            this.button6.Size = new System.Drawing.Size(110, 26);
             this.button6.TabIndex = 3;
+            this.button6.Text = "Акча";
             this.button6.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -452,6 +457,23 @@
             this.dataGridView2.Size = new System.Drawing.Size(418, 465);
             this.dataGridView2.TabIndex = 0;
             // 
+            // tabPage3
+            // 
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(1016, 545);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "tabPage3";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // поменятьПарольToolStripMenuItem1
+            // 
+            this.поменятьПарольToolStripMenuItem1.Name = "поменятьПарольToolStripMenuItem1";
+            this.поменятьПарольToolStripMenuItem1.Size = new System.Drawing.Size(117, 20);
+            this.поменятьПарольToolStripMenuItem1.Text = "Поменять пароль";
+            this.поменятьПарольToolStripMenuItem1.Click += new System.EventHandler(this.поменятьПарольToolStripMenuItem1_Click);
+            // 
             // AdminMainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -520,6 +542,8 @@
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.ToolStripMenuItem поменятьПарольToolStripMenuItem1;
 
     }
 }

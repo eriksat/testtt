@@ -147,5 +147,16 @@ namespace KinderGartenList
             AddValueN _addValueN = new AddValueN();
             _addValueN.ShowDialog();
         }
+
+        private void поменятьПарольToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void поменятьПарольToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            changePasswordForm _changePasswordForm = new changePasswordForm();
+            _changePasswordForm.ShowDialog();
+        }
     }
 }
