@@ -52,27 +52,28 @@
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.label14 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.textBox9 = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.label18 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
-            this.groupBox5.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            this.groupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox2
@@ -347,47 +348,6 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Родители";
             // 
-            // groupBox5
-            // 
-            this.groupBox5.Controls.Add(this.label16);
-            this.groupBox5.Controls.Add(this.textBox2);
-            this.groupBox5.Controls.Add(this.label12);
-            this.groupBox5.Controls.Add(this.textBox7);
-            this.groupBox5.Controls.Add(this.textBox9);
-            this.groupBox5.Controls.Add(this.label14);
-            this.groupBox5.Location = new System.Drawing.Point(7, 102);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(387, 97);
-            this.groupBox5.TabIndex = 1;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Мать";
-            // 
-            // textBox7
-            // 
-            this.textBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox7.Location = new System.Drawing.Point(116, 49);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(219, 20);
-            this.textBox7.TabIndex = 40;
-            // 
-            // textBox9
-            // 
-            this.textBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox9.Location = new System.Drawing.Point(116, 23);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(219, 20);
-            this.textBox9.TabIndex = 39;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label14.Location = new System.Drawing.Point(13, 30);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(34, 13);
-            this.label14.TabIndex = 37;
-            this.label14.Text = "ФИО";
-            // 
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.textBox8);
@@ -397,18 +357,36 @@
             this.groupBox4.Controls.Add(this.textBox5);
             this.groupBox4.Controls.Add(this.label9);
             this.groupBox4.Controls.Add(this.label10);
-            this.groupBox4.Location = new System.Drawing.Point(7, 19);
+            this.groupBox4.Location = new System.Drawing.Point(5, 14);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(387, 77);
+            this.groupBox4.Size = new System.Drawing.Size(387, 85);
             this.groupBox4.TabIndex = 0;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Отец";
+            // 
+            // textBox8
+            // 
+            this.textBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox8.Location = new System.Drawing.Point(116, 60);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(219, 20);
+            this.textBox8.TabIndex = 45;
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label17.Location = new System.Drawing.Point(11, 63);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(46, 13);
+            this.label17.TabIndex = 45;
+            this.label17.Text = " E-posta";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label11.Location = new System.Drawing.Point(13, 47);
+            this.label11.Location = new System.Drawing.Point(15, 39);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(32, 13);
             this.label11.TabIndex = 36;
@@ -417,7 +395,7 @@
             // textBox6
             // 
             this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox6.Location = new System.Drawing.Point(116, 31);
+            this.textBox6.Location = new System.Drawing.Point(116, 36);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(219, 20);
             this.textBox6.TabIndex = 35;
@@ -443,7 +421,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label10.Location = new System.Drawing.Point(10, 26);
+            this.label10.Location = new System.Drawing.Point(11, 17);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(34, 13);
             this.label10.TabIndex = 32;
@@ -458,51 +436,84 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Оплата";
             // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.textBox2);
+            this.groupBox5.Controls.Add(this.label12);
+            this.groupBox5.Controls.Add(this.label14);
+            this.groupBox5.Controls.Add(this.textBox7);
+            this.groupBox5.Controls.Add(this.textBox9);
+            this.groupBox5.Controls.Add(this.label16);
+            this.groupBox5.Controls.Add(this.label18);
+            this.groupBox5.Location = new System.Drawing.Point(7, 105);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(387, 85);
+            this.groupBox5.TabIndex = 1;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "Отец";
+            // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox2.Location = new System.Drawing.Point(116, 71);
+            this.textBox2.Location = new System.Drawing.Point(116, 60);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(219, 20);
-            this.textBox2.TabIndex = 43;
+            this.textBox2.TabIndex = 45;
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label12.Location = new System.Drawing.Point(15, 58);
+            this.label12.Location = new System.Drawing.Point(11, 63);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(32, 13);
-            this.label12.TabIndex = 42;
-            this.label12.Text = "Тел: ";
+            this.label12.Size = new System.Drawing.Size(46, 13);
+            this.label12.TabIndex = 45;
+            this.label12.Text = " E-posta";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label14.Location = new System.Drawing.Point(15, 39);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(32, 13);
+            this.label14.TabIndex = 36;
+            this.label14.Text = "Тел: ";
+            // 
+            // textBox7
+            // 
+            this.textBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox7.Location = new System.Drawing.Point(116, 36);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(219, 20);
+            this.textBox7.TabIndex = 35;
+            // 
+            // textBox9
+            // 
+            this.textBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox9.Location = new System.Drawing.Point(116, 14);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(219, 20);
+            this.textBox9.TabIndex = 34;
             // 
             // label16
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label16.Location = new System.Drawing.Point(15, 81);
+            this.label16.Location = new System.Drawing.Point(45, 26);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(46, 13);
-            this.label16.TabIndex = 44;
-            this.label16.Text = " E-posta";
+            this.label16.Size = new System.Drawing.Size(0, 13);
+            this.label16.TabIndex = 33;
             // 
-            // label17
+            // label18
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label17.Location = new System.Drawing.Point(13, 60);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(46, 13);
-            this.label17.TabIndex = 45;
-            this.label17.Text = " E-posta";
-            // 
-            // textBox8
-            // 
-            this.textBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox8.Location = new System.Drawing.Point(116, 57);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(219, 20);
-            this.textBox8.TabIndex = 45;
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label18.Location = new System.Drawing.Point(11, 17);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(34, 13);
+            this.label18.TabIndex = 32;
+            this.label18.Text = "ФИО";
             // 
             // AddValueN
             // 
@@ -527,10 +538,10 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox3.ResumeLayout(false);
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -557,11 +568,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.TextBox textBox5;
@@ -572,11 +579,16 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.GroupBox groupBox6;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label18;
 
     }
 }

@@ -40,3 +40,20 @@ D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AdminMainForm.resources
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
 D:\Новая папка (2)\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.changePasswordForm.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe.config
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.exe
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.pdb
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.pdb
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csprojResolveAssemblyReference.cache
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AdminMainForm.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.changePasswordForm.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.LogIn.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.UserMainForm.resources
+D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
