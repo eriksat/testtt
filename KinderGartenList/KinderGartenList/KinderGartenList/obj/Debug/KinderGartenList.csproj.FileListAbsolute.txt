@@ -57,3 +57,20 @@ D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\Ki
 D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
 D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.UserMainForm.resources
 D:\gitgit\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe.config
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.exe
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.pdb
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.pdb
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AdminMainForm.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.changePasswordForm.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.LogIn.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.UserMainForm.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
