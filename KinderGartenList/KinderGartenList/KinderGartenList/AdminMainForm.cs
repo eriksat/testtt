@@ -158,5 +158,11 @@ namespace KinderGartenList
             changePasswordForm _changePasswordForm = new changePasswordForm();
             _changePasswordForm.ShowDialog();
         }
+
+        private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UserMainForm _userMainForm = new UserMainForm();
+            _userMainForm.ShowDialog();
+        }
     }
 }

@@ -74,3 +74,20 @@ D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGart
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.UserMainForm.resources
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe.config
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.exe
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.pdb
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.pdb
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csprojResolveAssemblyReference.cache
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AdminMainForm.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.changePasswordForm.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.LogIn.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.StartForm.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.UserMainForm.resources
+D:\fer\testtt\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
